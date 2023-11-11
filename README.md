@@ -2,7 +2,7 @@
 
 #### Project Summary 
 
-- In this project, I use k-means to cluster different topics and Latent Dirichlet Allocation to identify latent keywords for watch reviewers.
+- In this project, I used k-means to cluster different topics and Latent Dirichlet Allocation to identify latent keywords for watch reviewers.
 
 #### Outline
 
