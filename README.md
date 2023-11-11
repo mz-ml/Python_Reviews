@@ -13,6 +13,6 @@
     - Tokenization and stemming
     - Term Frequency-Inverse Document Frequency (TF-IDF)
 
-- **K-Means Clustering**  
+- K-Means Clustering  
 
-- **Latent Dirichlet Allocation (LDA)**
+- Latent Dirichlet Allocation (LDA)
