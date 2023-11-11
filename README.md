@@ -2,16 +2,17 @@
 
 #### Project Summary 
 
-- In this project, I used k-means to cluster different topics and Latent Dirichlet Allocation to identify latent keywords for watch reviewers.
+- In this project, I clustered reviews into different topics and identified topic keywords by performing NLP techniques (tokenization, stop-word removal, and stemming), extracting Term Frequency-Inverse Document Frequency features, and building K-Means and Latent Dirichlet Allocation.
 
 #### Outline
 
-- Loading Data
+- Loading Data  
 
-- Tokenizing and Stemming
+- Preprocessing Data  
+    - Stop-word removal
+    - Tokenization and stemming
+    - Term Frequency-Inverse Document Frequency (TF-IDF)
 
-- Term Frequency-Inverse Document Frequency (TF-IDF)
-
-- **K-Means Clustering**
+- **K-Means Clustering**  
 
 - **Latent Dirichlet Allocation (LDA)**
