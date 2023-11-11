@@ -8,7 +8,7 @@
 
 - Loading Data  
 
-- Preprocessing Data  
+- Preprocessing Data
     - Stop-word removal
     - Tokenization and stemming
     - Term Frequency-Inverse Document Frequency (TF-IDF)
