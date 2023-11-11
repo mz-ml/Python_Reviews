@@ -7,12 +7,9 @@
 #### Outline
 
 - Loading Data  
-
 - Preprocessing Data
-    - Stop-word removal
-    - Tokenization and stemming
-    - Term Frequency-Inverse Document Frequency (TF-IDF)
-
+  - Stop-word removal
+  - Tokenization and stemming
+  - Term Frequency-Inverse Document Frequency (TF-IDF)
 - K-Means Clustering  
-
 - Latent Dirichlet Allocation (LDA)
