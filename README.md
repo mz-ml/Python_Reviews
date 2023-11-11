@@ -15,7 +15,3 @@
 - **K-Means Clustering**
 
 - **Latent Dirichlet Allocation (LDA)**
-
-#### HTML Preview
-
-https://htmlpreview.github.io/?https://github.com/mingzhao1103/Python_Reviews/blob/main/review.html
